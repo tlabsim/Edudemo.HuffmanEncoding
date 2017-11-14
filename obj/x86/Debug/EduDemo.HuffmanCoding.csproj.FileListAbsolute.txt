@@ -1,0 +1,65 @@
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\Media\TLABS.wav
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\EduDemo.HuffmanCoding.exe.config
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\EduDemo.HuffmanCoding.exe
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\EduDemo.HuffmanCoding.pdb
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\TLABS.Collections.dll
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\TLABS.Extensions.dll
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\TLABS.IntelligentInput.dll
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\TLABS.Notification.dll
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\TLABS.WPF.dll
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.csprojResolveAssemblyReference.cache
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\UserControls\HuffmanNodeControl.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Images.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\MainWindowResources.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\Brushes.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\CoreStyles.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\CustomStyles.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\Fonts.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\NRCTheme.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\SDKStyles.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\Styles.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\App.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\UserControls\HuffmanNodeControl.g.cs
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\MainWindow.g.cs
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\App.g.cs
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding_Content.g.cs
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding_MarkupCompile.cache
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding_MarkupCompile.lref
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\MainWindow.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.g.resources
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.Properties.Resources.resources
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.csproj.GenerateResource.Cache
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.exe
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.pdb
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\UserControls\HuffmanNodeControl2.baml
+G:\My Workspaces\Current\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\UserControls\HuffmanNodeControl2.g.cs
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\EduDemo.HuffmanCoding.exe.config
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.exe
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.pdb
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\Media\TLABS.wav
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\EduDemo.HuffmanCoding.exe
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\bin\Debug\EduDemo.HuffmanCoding.pdb
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.csprojResolveAssemblyReference.cache
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\UserControls\HuffmanNodeControl2.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\UserControls\HuffmanNodeControl.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Images.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\MainWindowResources.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\Brushes.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\CoreStyles.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\CustomStyles.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\Fonts.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\NRCTheme.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\SDKStyles.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\Resource Dictionaries\Theme\Styles.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\App.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\UserControls\HuffmanNodeControl2.g.cs
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\UserControls\HuffmanNodeControl.g.cs
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\MainWindow.g.cs
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\App.g.cs
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding_Content.g.cs
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding_MarkupCompile.cache
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding_MarkupCompile.lref
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\MainWindow.baml
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.g.resources
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.Properties.Resources.resources
+E:\My Workspaces\Current\Standby\EduDemo.HuffmanCoding\EduDemo.HuffmanCoding\obj\x86\Debug\EduDemo.HuffmanCoding.csproj.GenerateResource.Cache

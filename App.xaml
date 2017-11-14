@@ -1,0 +1,46 @@
+﻿<Application x:Class="EduDemo.HuffmanCoding.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:TLABS_WPF_Converters="clr-namespace:TLABS.WPF.Converters;assembly=TLABS.WPF"
+             StartupUri="MainWindow.xaml">
+    
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary x:Name="ThemeDictionary">
+                    <ResourceDictionary.MergedDictionaries>
+                        <ResourceDictionary x:Name="ImagesResources" Source="/EduDemo.HuffmanCoding;component/Resource Dictionaries/Images.xaml"/>
+                        <ResourceDictionary x:Name="MainWindowResources" Source="/EduDemo.HuffmanCoding;component/Resource Dictionaries/MainWindowResources.xaml"/>
+                        <ResourceDictionary x:Name="NRCThemeResources" Source="/EduDemo.HuffmanCoding;component/Resource Dictionaries/Theme/NRCTheme.xaml"/>
+                    </ResourceDictionary.MergedDictionaries>
+
+                    <TLABS_WPF_Converters:EqualityConverter x:Key="EC"/>
+                    <TLABS_WPF_Converters:BoolToVisibilityConverter x:Key="B2V"/>
+                    <TLABS_WPF_Converters:BoolToInvisibilityConverter x:Key="B2I"/>
+                    <TLABS_WPF_Converters:NullToVisibilityConverter x:Key="N2V"/>
+                    <TLABS_WPF_Converters:NullToInvisibilityConverter x:Key="N2I"/>
+                    <TLABS_WPF_Converters:IntToIndexConverter x:Key="I2I"/>
+                    <TLABS_WPF_Converters:NoSelectionToNoVisibilityConverter x:Key="NS2NV"/>
+                    <TLABS_WPF_Converters:MultiSelectionToVisibilityConverter x:Key="MS2V"/>
+                    <TLABS_WPF_Converters:MultiBoolToVisibilityConverter x:Key="MB2V"/>
+                    <TLABS_WPF_Converters:AnyBoolToVisibilityConverter x:Key="AB2V"/>
+                    <TLABS_WPF_Converters:BoolInverter x:Key="BI"/>
+                    <TLABS_WPF_Converters:PositiveIntToBoolConverter x:Key="PI2BC"/>
+                    <TLABS_WPF_Converters:ZeroToBoolConverter x:Key="Z2BC"/>
+                    <TLABS_WPF_Converters:NonZeroToBoolConverter x:Key="NZ2BC"/>
+                    <TLABS_WPF_Converters:LogicalAndConverter x:Key="LAC"/>
+                    <TLABS_WPF_Converters:LogicalOrConverter x:Key="LOC"/>
+                    <TLABS_WPF_Converters:FocusAndTextToVisibilityConverter x:Key="FAT2VC"/>
+                    <TLABS_WPF_Converters:FocusAndSelectionToVisibilityConverter x:Key="FAS2VC"/>
+                    <TLABS_WPF_Converters:FocusAndTextOrBoolToVisibilityConverter x:Key="FATOB2VC"/>
+                    <TLABS_WPF_Converters:TextToBoolConverter x:Key="T2B"/>
+                    <TLABS_WPF_Converters:TextToVisibilityConverter x:Key="T2V"/>
+                    <TLABS_WPF_Converters:ObjectToStringConverter x:Key="O2S"/>
+                    <TLABS_WPF_Converters:AdditionConverter x:Key="AC"/>
+                    <TLABS_WPF_Converters:SubtractConverter x:Key="SC"/>
+                    <Style TargetType="{x:Type Label}"></Style>
+                </ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
